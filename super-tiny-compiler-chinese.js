@@ -679,7 +679,7 @@ function traverser(ast, visitor) {
  *                                    |             type: 'NumberLiteral',
  *                                    |             value: '2'
  *                                    |           }]
- *         (那一边比较长/w\)           |         }]
+ *         (那一边比较长/w\)            |         }]
  *                                    |       }
  *                                    |     }]
  *                                    |   }
